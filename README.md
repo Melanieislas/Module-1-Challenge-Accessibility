@@ -12,6 +12,7 @@ Provide a short description explaining the what, why, and how of your project. U
 ## Usage
 
 Open website through link file:///Users/melanieislas/bootcamp/Module-1-Challenge-Accessibility/Develop/index.html. 
+![Horiseon 1](https://user-images.githubusercontent.com/120453099/209059393-f328d325-c2c1-4d5c-ac3b-7f4a80015a77.png)
 
 Provide instructions and examples for use. Include screenshots as needed.
 
