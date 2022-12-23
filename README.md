@@ -15,11 +15,6 @@ Open website through link file:///Users/melanieislas/bootcamp/Module-1-Challenge
 ![Horiseon 1](https://user-images.githubusercontent.com/120453099/209059393-f328d325-c2c1-4d5c-ac3b-7f4a80015a77.png)
 ![Horiseon 2](https://user-images.githubusercontent.com/120453099/209059588-a03295fe-dd61-44f7-a79f-1c655db8a471.png)
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
@@ -31,7 +26,7 @@ If you followed tutorials, include links to those here as well.
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+MIT License
 
 ---
 
