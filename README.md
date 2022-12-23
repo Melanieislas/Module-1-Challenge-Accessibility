@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - My motivation for this project was to fix the code in the html file for a webpage to make it more accessible to the user. 
 - The edits in the code solve the problem of limited accecibility and adds more detail to the elements of the webpage.
 - In this project, I learned and practiced how to implement changes in both the HTML and CSS files and learned how to change the sizes on the texts and images.
